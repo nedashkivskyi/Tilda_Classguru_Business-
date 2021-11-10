@@ -1,0 +1,200 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 4854,
+      "max": [
+        49.53730010986328,
+        49.537750244140625,
+        49.956451416015625
+      ],
+      "min": [
+        -49.53730010986328,
+        -49.537750244140625,
+        -49.956451416015625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 58248,
+      "componentType": 5126,
+      "count": 4854,
+      "max": [
+        0.9867349863052368,
+        0.9866526126861572,
+        0.9985384345054626
+      ],
+      "min": [
+        -0.9867347478866577,
+        -0.9866517782211304,
+        -0.9993425011634827
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 21006,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3d4Tilda (https://sketchfab.com/3d4Tilda)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/tilda-classguru-business-774c73f0b9ae4b2da5274546a28837a2",
+      "title": "Tilda_Classguru_Business"
+    },
+    "generator": "Sketchfab-12.0.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 84024,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 116496,
+      "byteOffset": 84024,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 200520,
+      "uri": "scene.bin"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "default",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.09305896284668726,
+          0.04091519690685319,
+          0.9130986517934192,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.54
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "object_004_Retopo_default_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.5092430114746094,
+        -0.7106030583381652,
+        -0.4855047762393953,
+        0.0,
+        -0.7608636617660522,
+        -0.10810122638940797,
+        -0.6398442387580872,
+        0.0,
+        0.4021916091442108,
+        0.6952391266822816,
+        -0.5957217812538146,
+        0.0,
+        -3.0030245780944824,
+        0.03324137255549388,
+        1.9365917444229126,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.02539999969303608,
+        0.0,
+        0.0,
+        -0.02539999969303608,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "bbd3fe2d005b4c9bae0ec9d3b64919fd.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        50.03105163574219,
+        128.9418487548828,
+        1.0
+      ],
+      "name": "object_004_Retopo"
+    },
+    {
+      "mesh": 0,
+      "name": "object_004_Retopo_default_0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

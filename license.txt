@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tilda_Classguru_Business
+* source:	https://sketchfab.com/3d-models/tilda-classguru-business-774c73f0b9ae4b2da5274546a28837a2
+* author:	3d4Tilda (https://sketchfab.com/3d4Tilda)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tilda_Classguru_Business" (https://sketchfab.com/3d-models/tilda-classguru-business-774c73f0b9ae4b2da5274546a28837a2) by 3d4Tilda (https://sketchfab.com/3d4Tilda) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
